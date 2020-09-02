@@ -32,7 +32,7 @@
    - heroku run python manage.py loaddata data.xml
    - heroku run python manage.py createsuperuser
 4) Запускаем приложение:
- - 
+ - heroku open
 По умолчанию логин и пароль для пользователя-администратора в проекте:
 - Логин: pws_admin
 - Пароль: sf_password
